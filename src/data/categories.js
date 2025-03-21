@@ -1,4 +1,4 @@
-const baseImagePath = "/src/assets/images/category/";
+const baseImagePath = "/images/category/";
 
 export const categories = [
   {

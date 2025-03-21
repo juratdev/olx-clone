@@ -1,14 +1,5 @@
-<template>
-  <div>
-    <CustomHeader />
-    <slot />
-    <Footer />
-  </div>
-</template>
+<template></template>
 
-<script setup>
-import CustomHeader from "../components/Base/CustomHeader.vue";
-import Footer from "../components/Footer/Footer.vue";
-</script>
+<script setup></script>
 
 <style></style>

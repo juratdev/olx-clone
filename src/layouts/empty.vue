@@ -1,8 +1,3 @@
-<script setup>
-import CustomHeader from "../components/Base/CustomHeader.vue";
-</script>
+<script setup></script>
 
-<template>
-  <CustomHeader />
-  <slot />
-</template>
+<template></template>

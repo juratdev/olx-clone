@@ -2,7 +2,7 @@
   <nav class="bg-[#002F34] py-4">
     <div class="container px-4 mx-auto flex justify-between items-center">
       <div class="w-16 cursor-pointer">
-        <img class="w-full" src="../../assets/images/logo.svg" alt="logo" />
+        <img class="w-full" src="/images/logo.svg" alt="logo" />
       </div>
       <div class="flex items-center gap-10">
         <a href="#" class="text-white">
