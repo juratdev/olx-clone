@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-[#002F34] py-4 max-sm:py-3">
+  <nav class="bg-[#002F34] py-4">
     <div class="container px-4 mx-auto flex justify-between items-center">
       <div class="w-16 cursor-pointer max-sm:w-12">
         <img class="w-full" src="/images/logo.svg" alt="logo" />
